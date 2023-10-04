@@ -6,5 +6,11 @@ namespace Inlämningsuppgift_4__Grupparbete_
         {
             InitializeComponent();
         }
+        //kevin
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
